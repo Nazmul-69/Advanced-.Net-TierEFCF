@@ -1,0 +1,12 @@
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\BLL.dll
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\BLL.pdb
+E:\RAHAT\Advanced .NET\AppLayer\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\RAHAT\Advanced .NET\AppLayer\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\RAHAT\Advanced .NET\AppLayer\BLL\obj\Debug\BLL.dll
+E:\RAHAT\Advanced .NET\AppLayer\BLL\obj\Debug\BLL.pdb
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\DAL.dll
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\EntityFramework.dll
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\DAL.pdb
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\DAL.dll.config
+E:\RAHAT\Advanced .NET\AppLayer\BLL\bin\Debug\EntityFramework.xml
+E:\RAHAT\Advanced .NET\AppLayer\BLL\obj\Debug\BLL.csproj.Up2Date
